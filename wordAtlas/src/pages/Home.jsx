@@ -5,7 +5,7 @@ import { About } from "./About";
 export const Home = () => {
   return (
     <>
-      <main className="flex flex-col md:flex-row justify-center items-center bg-black gap-5 text-white min-h-screen pt-5 px-4">
+      <main className="flex flex-col md:flex-row justify-center items-center bg-black gap-5 text-white h-[500px] pt-5 px-4">
         {/* Text Section */}
         <div className="flex flex-col gap-3 p-2 w-full md:w-1/2 max-w-md">
           <p className="text-2xl md:text-3xl font-semibold leading-snug">

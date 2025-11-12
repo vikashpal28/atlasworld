@@ -44,7 +44,7 @@ export const SearchFilter = ({
 
         <div>
           <select 
-            className="text-white border border-white pt-2 pb-2 pl-3 rounded-md"
+            className="text-white bg-black border border-white pt-2 pb-2 pl-3 rounded-md"
             value={filter}
             onChange={handleSelectChange}
           >
