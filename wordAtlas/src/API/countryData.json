@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 5 million vending machines, the highest per capita in the world."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214300000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world's oxygen."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38900000,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428000000,
+    "interestingFact": "India is the birthplace of chess and yoga."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26800000,
+    "interestingFact": "Australia is the only continent covered by a single country."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 111000000,
+    "interestingFact": "Egypt is home to the only remaining ancient wonder: the Great Pyramid of Giza."
+  },
+  {
+    "id": 7,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 84400000,
+    "interestingFact": "Germany is known for having over 1,500 different types of sausages."
+  },
+  {
+    "id": 8,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51700000,
+    "interestingFact": "South Korea has the fastest average internet speed in the world."
+  }
+]
